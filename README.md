@@ -155,7 +155,7 @@ Images generated during the analysis can be found in the `visualizations/` folde
 
 A video demonstrating the code and analysis can be viewed on YouTube at the following link:
 
-[YouTube Video Link](https://studio.youtube.com/video/7f5JwwQUvGQ/edit)
+[YouTube Video Link](https://www.youtube.com/watch?v=7f5JwwQUvGQ)
 
 ## Contributors
 
